@@ -15,6 +15,6 @@ he objective of a music database is to efficiently store, manage, and retrieve v
 - MySQL
 - MySQL Workbench
 
-  ![image] https://github.com/Anmolpandey23/Music_Database/blob/50b4cee2445ef8bd76d6a563c2af627cff5a6ada/Schema%20Diagram.png]
+  ![image](https://github.com/Anmolpandey23/Music_Database/blob/50b4cee2445ef8bd76d6a563c2af627cff5a6ada/Schema%20Diagram.png)
 
   
